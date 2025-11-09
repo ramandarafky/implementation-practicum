@@ -12,6 +12,6 @@ Buka terminal di VM Xinu, lalu jalankan pada directory xinu:
     ```
 2. **Clone File mutex.c:**
     ```bash
-    wget https://raw.githubusercontent.com/ramandarafky/semaphore-implementation/refs/heads/main/mutex.c
+    wget https://raw.githubusercontent.com/ramandarafky/implementation-practicum/refs/heads/main/mutex.c
     ```
 ---
