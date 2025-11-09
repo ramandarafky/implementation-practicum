@@ -8,7 +8,7 @@ Repository ini menyediakan source code Implementasi Praktikum
 Buka terminal di VM Xinu, lalu jalankan pada directory xinu:
 1. **Clone File signaling.c:**
     ```bash
-    wget https://raw.githubusercontent.com/ramandarafky/semaphore-implementation/refs/heads/main/signaling.c
+    wget https://raw.githubusercontent.com/ramandarafky/implementation-practicum/refs/heads/main/signaling.c
     ```
 2. **Clone File mutex.c:**
     ```bash
