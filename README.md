@@ -1,6 +1,6 @@
-# Praktikum Semaphore & Mutex 
+# IMPLEMENTATION OF PRACTICUM
 
-Repository ini menyediakan source code Implementasi **Semaphore & Mutex** 
+Repository ini menyediakan source code Implementasi Praktikum 
 
 ---
 
