@@ -14,7 +14,7 @@ Buka terminal di VM Xinu, lalu jalankan pada directory xinu:
     ```bash
     wget https://raw.githubusercontent.com/ramandarafky/implementation-practicum/refs/heads/main/mutex.c
     ```
-3. **Clone File mutex.c:**
+3. **Clone File chname.c:**
     ```bash
     wget https://raw.githubusercontent.com/ramandarafky/implementation-practicum/refs/heads/main/chname.c
     ```
