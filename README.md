@@ -22,4 +22,8 @@ Buka terminal di VM Xinu, lalu jalankan pada directory xinu:
     ```bash
     wget https://raw.githubusercontent.com/ramandarafky/implementation-practicum/refs/heads/main/main.c
     ```
+5. **Clone File xsh_mycmd.c:**
+    ```bash
+    wget https://raw.githubusercontent.com/ramandarafky/implementation-practicum/refs/heads/main/xsh_mycmd.c
+    ```
 ---
