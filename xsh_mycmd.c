@@ -1,4 +1,4 @@
-/* xsh_mycnd.c - xsh_mycnd */   // Nama file dan fungsi shell
+/* xsh_mycmd.c - xsh_mycmd */   // Nama file dan fungsi shell
 
 #include <xinu.h>               // Header utama sistem Xinu
 #include <stdio.h>              // Untuk printf, fprintf
@@ -7,7 +7,7 @@
 // deklarasi nama fungsi
 static void printMemUse(void);  // Deklarasi fungsi lokal printMemUse
 
-shellcmd xsh_mycnd(int nargs, char *args[]) {   // Fungsi command shell Xinu
+shellcmd xsh_mycmd(int nargs, char *args[]) {   // Fungsi command shell Xinu
 
     /* For argument '--help', emit help about the 'ping' command */
     // Jika user memasukkan: mycmd --help
@@ -43,4 +43,5 @@ shellcmd xsh_mycnd(int nargs, char *args[]) {   // Fungsi command shell Xinu
  */
 void printMemUse(void){                    // Fungsi untuk menampilkan penggunaan memori (dummy)
     printf("My memory usage is xxxx\n");  // Placeholder, nanti bisa diganti info memori asli Xinu
+
 }
